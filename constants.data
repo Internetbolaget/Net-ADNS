@@ -39,6 +39,7 @@ i ADNS_R_MX adns_r_mx
 i ADNS_R_TXT adns_r_txt
 i ADNS_R_RP_RAW adns_r_rp_raw
 i ADNS_R_RP adns_r_rp
+i ADNS_R_AAAA adns_r_aaaa
 i ADNS_R_SRV_RAW adns_r_srv_raw
 i ADNS_R_SRV adns_r_srv
 i ADNS_R_ADDR adns_r_addr
